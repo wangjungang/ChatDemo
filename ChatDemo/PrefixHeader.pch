@@ -1,0 +1,36 @@
+//
+//  PrefixHeader.pch
+//  ChatDemo
+//
+//  Created by 孙锐 on 16/7/5.
+//  Copyright © 2016年 孙锐. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+//屏幕宽高
+#define  screenW     [UIScreen mainScreen].bounds.size.width
+#define  screenH     [UIScreen mainScreen].bounds.size.height
+//设置比例
+#define  scaleW  414/640
+#define scaleH   736/1136
+
+//设置图片大小
+#define kPictureImageViewMaxWidth 200*scaleW
+#define kPictureImageViewMaxHeight 200*scaleW
+
+
+
+//RGB设置
+#define UIColorFromRGB(rgbValue) [UIColor colorWithRed:((float)((rgbValue & 0xFF0000) >> 16))/255.0 green:((float)((rgbValue & 0xFF00) >> 8))/255.0 blue:((float)(rgbValue & 0xFF))/255.0 alpha:1.0]
+#define UIThemeColor UIColorFromRGB(0x26252A) //背景黑色
+#define UIBottomViewColor UIColorFromRGB(0xF2F2F5) //底部白色
+#define UIChatViewColor UIColorFromRGB(0xE6E6E6) //聊天窗口白色
+
+
+
+#endif /* PrefixHeader_pch */

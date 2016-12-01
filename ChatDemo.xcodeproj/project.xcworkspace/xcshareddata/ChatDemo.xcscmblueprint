@@ -1,0 +1,45 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "646fb212-6d06-11e3-a2a4-57cd746879f3++1155" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "173F6F8182CBCDD646F094A9F2D66CB1CF836978" : 0,
+    "646fb212-6d06-11e3-a2a4-57cd746879f3++1155" : 0,
+    "EB83C6C68AD13754321754ECC5B5557471F3663E" : 0,
+    "84531867786028116B6D2D77343D51BB7B4A9B11" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "36C738A8-D425-4EB3-AFCB-D59D31481DCC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "173F6F8182CBCDD646F094A9F2D66CB1CF836978" : "..\/%E6%9C%AA%E5%91%BD%E5%90%8D%E6%96%87%E4%BB%B6%E5%A4%B9\/ASHMessageTableViewDemo",
+    "646fb212-6d06-11e3-a2a4-57cd746879f3++1155" : "..\/VChatdemo\/UUChatTableView\/Demo\/OtherResources\/MJRefresh\/MJRefresh.bundle",
+    "EB83C6C68AD13754321754ECC5B5557471F3663E" : "..\/%E6%9C%AA%E5%91%BD%E5%90%8D%E6%96%87%E4%BB%B6%E5%A4%B9\/SVPullToRefresh",
+    "84531867786028116B6D2D77343D51BB7B4A9B11" : "..\/VChatdemo\/UUChatTableView"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ChatDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ChatDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:wu736139669\/ASHMessageTableViewDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "173F6F8182CBCDD646F094A9F2D66CB1CF836978"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.0.179\/BloodSugar",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "646fb212-6d06-11e3-a2a4-57cd746879f3++1155"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:ZhipingYang\/UUChatTableView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "84531867786028116B6D2D77343D51BB7B4A9B11"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:samvermette\/SVPullToRefresh.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EB83C6C68AD13754321754ECC5B5557471F3663E"
+    }
+  ]
+}
